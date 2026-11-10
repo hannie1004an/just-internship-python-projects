@@ -1,0 +1,2 @@
+[console_scripts]
+internship-cli = internship_cli.cli:main

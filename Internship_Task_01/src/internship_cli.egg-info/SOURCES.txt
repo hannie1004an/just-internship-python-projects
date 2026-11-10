@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/internship_cli/__init__.py
+src/internship_cli/cli.py
+src/internship_cli.egg-info/PKG-INFO
+src/internship_cli.egg-info/SOURCES.txt
+src/internship_cli.egg-info/dependency_links.txt
+src/internship_cli.egg-info/entry_points.txt
+src/internship_cli.egg-info/top_level.txt
+tests/test_cli.py

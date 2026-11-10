@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "internship-cli"
+version = "1.0.0"
+description = "A beginner-friendly Python command-line application"
+requires-python = ">=3.11,<3.12"
+
+[project.scripts]
+internship-cli = "internship_cli.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,25 @@
+
+{
+  "students": [
+    {
+      "student_id": 101,
+      "student_record": "{\"name\": \"Arun\", \"department\": \"AI&DS\", \"year\": 3}",
+      "academic_record": "{\"python\": 85, \"database\": 90}"
+    },
+    {
+      "student_id": 102,
+      "student_record": "{\"name\": \"Priya\", \"department\": \"CSE\", \"year\": 2}",
+      "academic_record": "{\"python\": 92, \"database\": 88}"
+    },
+    {
+      "student_id": 103,
+      "student_record": "{\"name\": \"Kumar\", \"department\": \"IT\", \"year\": 3}",
+      "academic_record": "{\"python\": 76, \"database\": 81}"
+    },
+    {
+      "student_id": 104,
+      "student_record": "{\"name\": \"Divya\", \"department\": \"AI&DS\", \"year\": 4}",
+      "academic_record": "{\"python\": 95, \"database\": 94}"
+    }
+  ]
+}
